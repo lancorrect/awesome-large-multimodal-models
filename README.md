@@ -8,27 +8,22 @@ This repo is a collection of recent multimodal researches with LLM and will be u
 
 ## Table of Contents
 
-[Surveys](#surveys)
+- [Surveys](#surveys)
 
-[Image-to-text generation](#image-to-text-generation)
+- [Image-to-text generation](#image-to-text-generation)
 
-[Multimodal alignment](#multimodal-alignment)
+- [Multimodal alignment](#multimodal-alignment)
 
-[Multimodal instruct tuning with machine-generated instruction-following data](#multimodal-instruct tuning-with-machine-generated-instruction-following-data)
+- [Multimodal instruct tuning with machine-generated instruction-following data](#multimodal-instruct-tuning-with-machine-generated-instruction-following-data)
 
-[More multimodal method](#more-multimodal-method)
+- [More multimodal method](#more-multimodal-method)
 
-[Application](#application)
-
-[Multimodal Aspect-based Sentiment Analysis](#multimodal-aspect-based-Sentiment-Analysis)
-
-[Surveys](#surveys)
-
-[Alignment](#alignment)
-
-[Translation](#translation)
-
-[Cross attention w/o alignment or translation](#cross-attention-wo-alignment-or-translation)
+- [Application](#application)
+  - [Multimodal Aspect-based Sentiment Analysis](#multimodal-aspect-based-Sentiment-Analysis)
+    - [Surveys](#surveys)
+    - [Alignment](#alignment)
+    - [Translation](#translation)
+    - [Cross attention w/o alignment or translation](#cross-attention-wo-alignment-or-translation)
 
 ## Surveys
 
