@@ -2,7 +2,7 @@
 
 Recently, with the huge development of large language model (LLM), there were a plenty of multi-modal works employing LLM to leverage the linguistic knowledge. These works introduced a new paradigm in multimodal field and achieved wonderful results.
 
-This repo is a collection of recent multimodal researches with LLM and will be updated continuously.
+This repo is a collection of recent multimodal research papers with LLM and will be updated continuously.
 
 **Welcome to follow and star!**
 
