@@ -16,7 +16,7 @@ This repo is a collection of recent multimodal research papers with LLM and will
 
 - [Multimodal instruct tuning with machine-generated instruction-following data](#multimodal-instruct-tuning-with-machine-generated-instruction-following-data)
 
-- [More multimodal method](#more-multimodal-method)
+- [Multimodal2multimodal](#multimodal2multimodal)
 
 - [Application](#application)
   - [Multimodal Aspect-based Sentiment Analysis](#multimodal-aspect-based-Sentiment-Analysis)
@@ -27,13 +27,15 @@ This repo is a collection of recent multimodal research papers with LLM and will
 
 ## Surveys
 
-Multimodal Foundation Models- From Specialists to General-Purpose Assistants [Arxive 2023] [[paper](https://arxiv.org/pdf/2309.10020.pdf)]
+Multimodal Foundation Models- From Specialists to General-Purpose Assistants [Arxiv 2023] [[paper](https://arxiv.org/pdf/2309.10020.pdf)]
 
 ## Image-to-text generation
 
 VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning [CVPR 2022] [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.html)] [[github](https://github.com/Vision-CAIR/ VisualGPT.)]
 
 ## Multimodal alignment
+
+mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality [Arxiv 2023] [[paper](https://arxiv.org/pdf/2304.14178.pdf?trk=public_post_comment-text)] [[github](https://github.com/X-PLUG/mPLUG-Owl)]
 
 BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [ICML 2023] [[paper](https://openreview.net/pdf?id=KU9UojoX7U)] [[github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
@@ -45,11 +47,13 @@ Align before Fuse: Vision and Language Representation Learning with Momentum Dis
 
 MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [Arxive 2023] [[paper](https://arxiv.org/pdf/2304.10592.pdf)] [[github](https://github.com/Vision-CAIR/MiniGPT-4)]
 
-Visual Instruction Tuning [Arxive 2023] [[paper](https://arxiv.org/pdf/2304.08485.pdf)] [[github](https://llava-vl.github.io)]
+Visual Instruction Tuning [Arxiv 2023] [[paper](https://arxiv.org/pdf/2304.08485.pdf)] [[github](https://llava-vl.github.io)]
 
-## More multimodal method
+## Multimodal2Multimodal
 
-NExT-GPT: Any-to-Any Multimodal LLM [Arxive 2023] [[paper](https://arxiv.org/pdf/2309.05519.pdf)] [[github](https://next-gpt.github.io/)]
+MINIGPT-5: INTERLEAVED VISION-AND-LANGUAGE GENERATION VIA GENERATIVE VOKENS [Arxiv 2023] [[paper](https://arxiv.org/pdf/2310.02239)] [[github](https://github.com/eric-ai-lab/MiniGPT-5)]
+
+NExT-GPT: Any-to-Any Multimodal LLM [Arxiv 2023] [[paper](https://arxiv.org/pdf/2309.05519.pdf)] [[github](https://next-gpt.github.io/)]
 
 ## Application
 
