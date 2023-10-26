@@ -39,7 +39,7 @@ mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality [Ar
 
 BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [ICML 2023] [[paper](https://openreview.net/pdf?id=KU9UojoX7U)] [[github](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
-BLIP: Bootstrapping Language-Image Pre-training for  Unified Vision-Language Understanding and Generation [ICML 2022] [[paper](https://proceedings.mlr.press/v162/li22n/li22n.pdf)] [[github](https://github. com/salesforce/BLIP)]
+BLIP: Bootstrapping Language-Image Pre-training for  Unified Vision-Language Understanding and Generation [ICML 2022] [[paper](https://proceedings.mlr.press/v162/li22n/li22n.pdf)] [[github](https://github.com/salesforce/BLIP)]
 
 Align before Fuse: Vision and Language Representation Learning with Momentum Distillation [NeurIPS 2021] [[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/505259756244493872b7709a8a01b536-Paper.pdf)] [[github](https://github.com/salesforce/ALBEF)]
 
