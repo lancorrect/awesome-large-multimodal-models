@@ -31,7 +31,7 @@ Multimodal Foundation Models- From Specialists to General-Purpose Assistants [Ar
 
 ## Image-to-text generation
 
-VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning [CVPR 2022] [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.html)] [[github](https://github.com/Vision-CAIR/ VisualGPT)]
+VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning [CVPR 2022] [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.html)] [[github](https://github.com/Vision-CAIR/VisualGPT)]
 
 ## Multimodal alignment
 
