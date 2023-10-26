@@ -45,7 +45,9 @@ Align before Fuse: Vision and Language Representation Learning with Momentum Dis
 
 ## Multimodal instruct tuning with machine-generated instruction-following data
 
-MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [Arxive 2023] [[paper](https://arxiv.org/pdf/2304.10592.pdf)] [[github](https://github.com/Vision-CAIR/MiniGPT-4)]
+Improved Baselines with Visual Instruction Tuning [arxiv 2023] [[paper](https://arxiv.org/pdf/2310.03744.pdf)] [[github](https://llava-vl.github.io)]
+
+MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [Arxiv 2023] [[paper](https://arxiv.org/pdf/2304.10592.pdf)] [[github](https://github.com/Vision-CAIR/MiniGPT-4)]
 
 Visual Instruction Tuning [Arxiv 2023] [[paper](https://arxiv.org/pdf/2304.08485.pdf)] [[github](https://llava-vl.github.io)]
 
@@ -64,6 +66,8 @@ NExT-GPT: Any-to-Any Multimodal LLM [Arxiv 2023] [[paper](https://arxiv.org/pdf/
 A Survey on Aspect-Based Sentiment Analysis: Tasks, Methods, and Challenges [IEEE Transactions on Knowledge and Data Engineering 2022] [[paper](https://ieeexplore.ieee.org/abstract/document/9996141/)]
 
 #### Alignment
+
+AoM: Detecting Aspect-oriented Information for Multimodal Aspect-Based Sentiment Analysis [ACL 2023] [[paper](https://arxiv.org/pdf/2306.01004.pdf)] [[github](https://arxiv.org/pdf/2306.01004.pdf)]
 
 Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection [EMNLP 2021] [[paper](https://aclanthology.org/2021.emnlp-main.360.pdf)] [[github](https://github.com/MANLP-suda/JML)]
 
